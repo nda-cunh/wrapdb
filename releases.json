@@ -4368,6 +4368,14 @@
       "2.5.1-1"
     ]
   },
+  "sfml_vala": {
+    "dependency_names": [
+      "csfml"
+    ],
+    "versions": [
+      "3.0.0-1"
+    ]
+  },
   "simdjson": {
     "dependency_names": [
       "simdjson"
