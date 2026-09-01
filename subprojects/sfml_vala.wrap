@@ -1,0 +1,8 @@
+[wrap-file]
+directory = sfml-vala-binding-3.0.0 
+source_url = https://gitlab.com/nda-cunh/sfml-vala-binding/-/archive/3.0.0/sfml-vala-binding-3.0.0.tar.gz
+source_filename = sfml-vala-binding-3.0.0.tar.gz
+source_hash = 1b2630f050c6d0f40435363815c109f3794c9fbab68f3ce7dab173a8bb131a69
+
+[provide]
+dependency_names = sfml_vala

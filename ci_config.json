@@ -220,6 +220,17 @@
       "openssl"
     ]
   },
+  "sfml_vala": {
+    "debian_packages": [
+      "valac"
+    ],
+    "alpine_packages": [
+      "vala"
+    ],
+    "msys_packages": [
+      "vala"
+    ]
+  },
   "csfml" : {
     "alpine_packages": [
       "libudev-zero-dev",
